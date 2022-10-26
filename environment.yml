@@ -1,0 +1,7 @@
+name: qiskit_trieste22
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipywidgets
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/qiskit_trieste22
